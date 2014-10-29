@@ -2,7 +2,7 @@ import java.io.FilePermission;
 import java.io.IOException;
 import java.security.PermissionCollection;
 
-public class FilePermission {
+public class FilePermissionDemo {
    
    static FilePermission fp = null;
    static PermissionCollection pc = null;
